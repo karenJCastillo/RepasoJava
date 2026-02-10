@@ -5,6 +5,10 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 //karen juliana castillo barreto
+        System.out.println("hola karen ");
+        System.out.println("hola sasha");
+        System.out.println("hola maia");
+
 
 
     }
